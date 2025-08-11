@@ -136,3 +136,9 @@ Want to collaborate or know more?
 [LinkedIn](https://ch.linkedin.com/in/alexandrepages-ch) • [ArtStation](https://www.artstation.com/apages)
 
 ---
+
+## License
+The code in this repository is licensed under the MIT License — see the LICENSE file for details.
+
+All 3D models, textures, animations, sound effects, and other non-code assets are licensed under CC BY-NC-ND 4.0.  
+They may not be used commercially or modified without permission.
