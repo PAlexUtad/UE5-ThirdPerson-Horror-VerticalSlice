@@ -8,7 +8,6 @@
   <h1 align="center">🌿 Treading Down The Garden Path</h1>
   <p align="center">
     A stylized third-person horror vertical slice built in Unreal Engine 5.<br/>
-    Based on the original comic of the same name.<br />
     <br />
     <img src="https://github.com/user-attachments/assets/8f7a697b-9d2c-49dc-811f-6676bc668bb7" alt="game screenshot" width="800"/>
     <br /><br />
@@ -22,7 +21,7 @@
 ## 📖 About The Project
 
 > *Treading Down The Garden Path* is a short, self-contained horror game demo developed entirely in Blueprint using Unreal Engine 5.  
-> Inspired by my graphic novel of the same name, this vertical slice blends atmospheric exploration, light combat, and fixed-camera puzzle design in a surreal mirror of a decaying city.
+> Inspired by my graphic novel of the same name.
 
 ---
 
@@ -105,13 +104,6 @@ To escape, he must explore an abandoned neighborhood filled with supernatural th
 - [ ] Polish combat and dodge VFX
 - [ ] Add voice line system using FMOD
 - [ ] Add mini boss encounter in the library
-
----
-
-## 📚 Related Projects
-
-- [My original comic](#) – *Treading Down The Garden Path*, the graphic novel that inspired the game
-- [Other game dev projects](#) – Including mech combat prototypes and unreal tools / components
 
 ---
 
